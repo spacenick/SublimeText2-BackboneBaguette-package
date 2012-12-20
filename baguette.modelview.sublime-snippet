@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Backbone.Baguette.ModelView.extend({${0:properties}});
+]]></content>
+    <tabTrigger>bmv</tabTrigger>
+    <scope>source.js</scope>
+    <description>Backbone Baguette ModelView</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Backbone.Baguette.CollectionView
+]]></content>
+    <tabTrigger>bcv</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Backbone Baguette CollectionView</description>
+</snippet>

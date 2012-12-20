@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Backbone.Baguette.LoadableView
+]]></content>
+    <tabTrigger>blv</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Backbone Baguette LoadableView</description>
+</snippet>

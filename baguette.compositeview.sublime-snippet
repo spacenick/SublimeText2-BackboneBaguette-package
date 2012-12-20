@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Backbone.Baguette.CompositeView.extend({${0:properties}});
+]]></content>
+    <tabTrigger>bcvv</tabTrigger>
+    <scope>source.js</scope>
+    <description>Backbone Baguette CompositeView</description>
+</snippet>
